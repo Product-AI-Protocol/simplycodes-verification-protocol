@@ -69,7 +69,7 @@ This paper is a companion to [Axiomatic Intelligence: A Post-Probabilistic Archi
   year={2026},
   month={February},
   institution={SimplyCodes / Product.ai},
-  doi={PLACEHOLDER}
+  doi={10.5281/zenodo.18625118}
 }
 ```
 
