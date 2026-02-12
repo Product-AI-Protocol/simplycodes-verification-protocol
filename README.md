@@ -5,7 +5,8 @@
 Michael Quoc, Bri Stanback
 SimplyCodes / Product.ai | February 2026
 
-[![DOI](https://zenodo.org/badge/DOI/PLACEHOLDER.svg)](https://doi.org/PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18625118.svg)](https://doi.org/10.5281/zenodo.18625118)
+
 
 ## Overview
 
